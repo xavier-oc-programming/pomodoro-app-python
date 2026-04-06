@@ -1,0 +1,8 @@
+# Standard library only — no pip install required.
+#
+# Python 3.10+ recommended:
+#   - X | Y union types  (e.g. str | None)
+#   - tuple[...] / list[...] built-in generics
+#
+# tkinter ships with the standard CPython distribution.
+# Linux users may need:  sudo apt install python3-tk
