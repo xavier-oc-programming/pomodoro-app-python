@@ -173,7 +173,8 @@ pomodoro-app-python/
 ├── README.md
 │
 ├── docs/
-│   └── COURSE_NOTES.md      # Original exercise description and concepts
+│   ├── COURSE_NOTES.md           # Original exercise description and concepts
+│   └── practicing_password.ipynb # Side practice notebook from the same day
 │
 ├── original/
 │   ├── main.py              # Course exercise (path fix only)
@@ -326,3 +327,5 @@ See [docs/COURSE_NOTES.md](docs/COURSE_NOTES.md) for the full concept breakdown.
 | `subprocess` | `menu.py` | Launch builds as subprocesses |
 | `pathlib` | `original/main.py`, `advanced/main.py`, `advanced/display.py` | Portable asset paths |
 | `collections.abc` | `advanced/display.py` | `Callable` type hint |
+
+> **docs/practicing_password.ipynb** — a side practice notebook from the same course day, unrelated to the Pomodoro app. Kept in `docs/` for completeness.
